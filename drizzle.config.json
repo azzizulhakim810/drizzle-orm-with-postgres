@@ -1,0 +1,6 @@
+{
+  "out": "./migration",
+  "schema": "./src/db/schema.ts",
+  "breakpoints": true,
+  "dialect": "postgresql"
+}
